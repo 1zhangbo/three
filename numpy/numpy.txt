@@ -1,0 +1,65 @@
+import  numpy as np
+print (np.arange(0,7)) # 0为起点，间隔为1时可缺省(引起歧义下不可缺省)
+print (np.ones((2,3,4),dtype=np.int16)) # 2页，3行，4列，全1，指定数据类型
+print (np.zeros((2,3,4))) # 2页，3行，4列，全0
+print (np.empty((2,3))) #值取决于内存
+print (np.arange(0,10,2)) # 起点为0，不超过10，步长为2
+print (np.linspace(-1,2,5)) # 起点为-1，终点为2，取5个点
+print (np.random.randint(0,3,(2,3))) # 大于等于0，小于3，2行3列的随机整数
+
+
+print np.arange(12).reshape(3,4) # 可以改变输出形状
+print np.arange(24).reshape(2,3,4)# 2页，3行，4页
+
+
+
+numpy.random.randint()
+numpy.random.randint(low, high=None, size=None, dtype=’l’)
+返回随机整数，范围区间为[low,high），包含low，不包含high
+参数：low为最小值，high为最大值，size为数组维度大小，dtype为数据类型，默认的数据类型是np.int
+high没有填写时，默认生成随机数的范围是[0，low)
+
+numpy.random.choice()
+numpy.random.choice(a, size=None, replace=True, p=None)
+从给定的一维数组中生成随机数
+参数： a为一维数组类似数据或整数；size为数组维度；p为数组中的数据出现的概率
+a为整数时，对应的一维数组为np.arange(a)
+np.random.choice(5, 3, replace=False)
+# 当replace为False时，生成的随机数不能有重复的数值
+
+numpy.random.rand()
+numpy.random.rand(d0,d1,…,dn)
+rand函数根据给定维度生成[0,1)之间的数据，包含0，不包含1
+dn表格每个维度
+返回值为指定维度的array
+
+numpy.random.randn()
+numpy.random.randn(d0,d1,…,dn)
+randn函数返回一个或一组样本，具有标准正态分布。
+dn表格每个维度
+返回值为指定维度的array   np.random.randn() # 当没有参数时，返回单个数据
+
+ grid = np.arange(1, 10).reshape((3, 3)) 
+ print(grid)
+
+grid = np.array([[1, 2, 3],
+ [4, 5, 6]])
+t=np.concatenate([grid, grid], axis=1)
+print(t)
+
+通过newaxis获得的列向量
+ x[:, np.newaxis]
+
+使用 np.vstack（垂直栈）和 np.hstack（水平栈）函数会
+更简洁： x = np.array([1, 2, 3]) 
+ grid = np.array([[9, 8, 7], 
+ [6, 5, 4]])  
+np.vstack([x, grid])
+
+分裂可以通过 np.split、np.hsplit 和 np.vsplit 函数来实现
+
+ 使用复合数据结构的结构化数组
+ data = np.zeros(4, dtype={'names':('name', 'age', 'weight'), 
+ 'formats':('U10', 'i4', 'f8')}) 
+ print(data.dtype) 
+[('name', '<U10'), ('age', '<i4'), ('weight', '<f8')]

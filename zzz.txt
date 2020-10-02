@@ -1,0 +1,810 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>电脑主题之家,桌面主题下载,电脑桌面壁纸,高清桌面壁纸_美桌壁纸网</title>
+<meta name="description" content="美桌壁纸网提供多款电脑主题、桌面主题下载包括xp和win7电脑主题，还有电脑桌面壁纸都是高清桌面壁纸，是美化您的电脑下载电脑桌面主题和电脑桌面壁纸的最佳网站。" />
+<link href="http://static.win4000.com/home/css/reset.css?v=20190107001" rel="stylesheet" type="text/css" /><link href="http://static.win4000.com/home/css/common.css?v=20190107001" rel="stylesheet" type="text/css" /><link href="http://static.win4000.com/home/css/index.css?v=20190107001" rel="stylesheet" type="text/css" /><script type="text/javascript" src="http://static.win4000.com/home/js/jquery-1.11.0.min.js?v=20190107001"></script><script type="text/javascript" src="http://static.win4000.com/home/js/jquery.lazyload.min.js?v=20190107001"></script><script type="text/javascript" src="http://static.win4000.com/home/js/jquery.tabs.js?v=20190107001"></script><script type="text/javascript" src="http://static.win4000.com/home/js/new_common.js?v=20190107001"></script><script type="text/javascript" src="http://static.win4000.com/home/js/jquery.cxslide.min.js?v=20190107001"></script><script type="text/javascript" src="http://static.win4000.com/home/js/uaredirect.js?v=20190107001"></script><script type="text/javascript" src="https://js.yaoyl.com/js/ds.js"></script><meta name="mobile-agent" content="format=html5;url=http://m.win4000.com/" />
+<meta name="mobile-agent" content="format=xhtml;url=http://m.win4000.com/" />
+<meta http-equiv="Cache-Control" content="no-transform" />
+<link rel="shortcut icon" href="http://static.win4000.com/images/favicon.ico" /> 
+<script type="text/javascript">uaredirect("http://m.win4000.com/")</script>
+</head>
+<body>
+<div class="header">
+    <div class="cont">
+        <div class="ml clearfix">
+            <div class="header-left clearfix">
+                <a class="logo" href=""></a>
+                <div class="navbox">
+                    <ul class="clearfix">
+                        <li><a href="http://www.win4000.com/" target="_blank">首页</a></li>
+                        <li><a href="http://www.win4000.com/wallpaper.html" target="_blank">桌面壁纸</a></li>
+                        <li><a href="http://www.win4000.com/mobile.html" target="_blank">手机壁纸</a></li>
+                        <li><a href="http://www.win4000.com/zt/index.html" target="_blank">壁纸专题</a></li>
+                        <li><a href="http://www.win4000.com/mt/index.html" target="_blank">图片专题</a></li>
+                        <li><a href="http://www.win4000.com/mt/star.html" target="_blank">明星图片</a></li>
+                        <li><a href="http://www.win4000.com/retu.html" target="_blank">图片大全</a></li>
+                        <li><a href="http://www.win4000.com/meitu.html" target="_blank">美女图片</a></li>
+                        <li><a href="http://www.win4000.com/hj/index.html" target="_blank">精选合集</a></li><li></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="header-right">
+                <a class="header-fav" href="http://www.win4000.com/hj/index.html" target="_balnk" ></a>
+                <!-- header-nav -->
+                <div class="header-nav">
+                    <span class="header-navIcon"></span>
+                    <ul class="header-navCont">
+                        <li>
+                            <div>
+                                <h3>桌面壁纸</h3>
+                                <a class="hot" href="http://www.win4000.com/wallpaper_2285_0_0_1.html" target="_blank">美女壁纸</a><a href="http://www.win4000.com/wallpaper_2361_0_0_1.html" target="_blank">美食壁纸</a><a class="hot" href="http://www.win4000.com/wallpaper_2357_0_0_1.html" target="_blank">体育壁纸</a><a href="http://www.win4000.com/wallpaper_2286_0_0_1.html" target="_blank">日历壁纸</a><a href="http://www.win4000.com/wallpaper_208_0_0_1.html" target="_blank">风景壁纸</a><a href="http://www.win4000.com/wallpaper_207_0_0_1.html" target="_blank">高清壁纸</a><a href="http://www.win4000.com/wallpaper_206_0_0_1.html" target="_blank">动物壁纸</a><a href="http://www.win4000.com/wallpaper_209_0_0_1.html" target="_blank">植物壁纸</a>
+                            </div>
+                            <div>
+                                <h3>手机壁纸</h3>
+                                <a  class="hot" href="http://www.win4000.com/mobile_2338_0_0_1.html" target="_blank">明星</a><a href="http://www.win4000.com/mobile_2339_0_0_1.html" target="_blank">节日</a><a  class="hot" href="http://www.win4000.com/mobile_2340_0_0_1.html" target="_blank">美女</a><a href="http://www.win4000.com/mobile_2341_0_0_1.html" target="_blank">风景</a><a href="http://www.win4000.com/mobile_2342_0_0_1.html" target="_blank">汽车</a><a href="http://www.win4000.com/mobile_2343_0_0_1.html" target="_blank">可爱</a><a href="http://www.win4000.com/mobile_2344_0_0_1.html" target="_blank">唯美</a><a class="hot" href="http://www.win4000.com/mobile_2345_0_0_1.html" target="_blank">苹果</a>
+                            </div>
+                        </li>
+                        <li>
+                            <div>
+                                <h3>壁纸专题</h3>
+                                <a class="hot" href="http://www.win4000.com/zt/fengjing.html" target="_blank">风景</a><a href="http://www.win4000.com/zt/gou.html" target="_blank">狗</a><a href="http://www.win4000.com/zt/huanlesong.html" target="_blank">欢乐颂</a><a href="http://www.win4000.com/zt/jiaju.html" target="_blank">家居</a><a href="http://www.win4000.com/zt/jieri.html" target="_blank">节日</a><a href="http://www.win4000.com/zt/junshi.html" target="_blank">军事</a><a href="http://www.win4000.com/zt/luhan.html" target="_blank">鹿晗</a><a href="http://www.win4000.com/zt/mao.html" target="_blank">猫</a>
+                            </div>
+                            <div>
+                                <h3>图片专题</h3>
+                                <a class="hot" href="http://www.win4000.com/mt/tangyan.html" target="_blank" target="_blank">唐嫣</a><a class="hot" href="http://www.win4000.com/mt/luojin.html" target="_blank" target="_blank">罗晋</a><a href="http://www.win4000.com/mt/shuangshiyi.html" target="_blank" target="_blank">双十一</a><a href="http://www.win4000.com/mt/wangou.html" target="_blank" target="_blank">王鸥</a><a href="http://www.win4000.com/mt/lanshouxianggu.html" target="_blank" target="_blank">蓝瘦香菇</a><a href="http://www.win4000.com/mt/huangzhengyin.html" target="_blank" target="_blank">黄正音</a><a href="http://www.win4000.com/mt/lizhenxian.html" target="_blank" target="_blank">李贞贤</a><a href="http://www.win4000.com/mt/caiyan.html" target="_blank" target="_blank">蔡妍</a>
+                            </div>
+                        </li>
+                        <li>
+                            <div>
+                                <h3>明星图片</h3>
+                                <a href="http://www.win4000.com/mt/yuanshanshan.html" target="_blank">袁姗姗</a><a href="http://www.win4000.com/mt/zhangbozhi.html" target="_blank">张柏芝</a><a href="http://www.win4000.com/mt/zhangjunning.html" target="_blank">张钧甯</a><a href="http://www.win4000.com/mt/zhangziyi.html" target="_blank">章子怡</a><a class="hot" href="http://www.win4000.com/mt/zhaoliying.html" target="_blank">赵丽颖</a><a href="http://www.win4000.com/mt/zhaowei.html" target="_blank">赵薇</a><a href="http://www.win4000.com/mt/zhengkai.html" target="_blank">郑凯</a><a href="http://www.win4000.com/mt/zhengshuang.html" target="_blank">郑爽</a>
+                            </div>
+                            <div>
+                                <h3>图片大全</h3>
+                                <a href="http://www.win4000.com/meinv103565.html" target="_blank">卓别林潘潘达</a><a href="http://www.win4000.com/meinv103563.html" target="_blank">幽默人生</a><a href="http://www.win4000.com/meinv103561.html" target="_blank">伤感非主流</a><a href="http://www.win4000.com/meinv103560.html" target="_blank">回味语录</a><a href="http://www.win4000.com/meinv103558.html" target="_blank">精辟语录</a><a href="http://www.win4000.com/meinv103557.html" target="_blank">2017版非主流语录</a><a href="http://www.win4000.com/meinv103554.html" target="_blank">创意搞笑文字</a><a href="http://www.win4000.com/meinv103551.html" target="_blank">甜蜜恋爱</a>
+                            </div>
+                        </li>
+                        <li>
+                            <div>
+                                <h3>美女图片</h3>
+                                <a href="http://www.win4000.com/meinv103617.html" target="_blank">校花学生妹写真</a><a href="http://www.win4000.com/meinvtag752.html" target="_blank">性感美女图片</a><a href="http://www.win4000.com/meinv103615.html" target="_blank">爆乳足球宝贝图片</a><a href="http://www.win4000.com/meinv103614.html" target="_blank">大胸美女写真</a><a href="http://www.win4000.com/meinv103612.html" target="_blank">办公室美女图片</a><a href="http://www.win4000.com/meinv103611.html" target="_blank">大胸美女李妍静</a><a href="http://www.win4000.com/meinv103609.html" target="_blank">黑丝包臀裙写真</a><a href="http://www.win4000.com/meinv103604.html"target="_blank">大胸制服诱惑写真</a>
+                            </div>
+                            <div>
+                                <h3>精选合集</h3>
+                                <a href="http://www.win4000.com/hj/suqian.html" target="_blank">宿迁城市</a><a href="http://www.win4000.com/hj/liminhao.html" target="_blank">李敏镐壁纸</a><a href="http://www.win4000.com/hj/guiguai.html" target="_blank">孤独又灿烂的神</a><a href="http://www.win4000.com/hj/hangzhouchengshifengjing.html" target="_blank">杭州城市风</a><a href="http://www.win4000.com/hj/yangzhou.html" target="_blank">扬州城市风景</a><a href="http://www.win4000.com/hj/xuzhouchengshijieshaotupiandaquan.html" target="_blank">徐州城市风景</a><a href="http://www.win4000.com/hj/jieribizhitupiandaquan.html" target="_blank">全年节日</a><a href="http://www.win4000.com/hj/sichuanchengshifengjing.html" target="_blank">四川城市风景</a>
+                            </div>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>     
+<div class="main">
+	<div class="main_cont">
+    	<!--幻灯-->
+    	<div class="area1 clearfix">
+        	<div class="slide_tit clearfix"><span></span><h2>精选推荐</h2><span></span></div>
+            <div>
+                <!--左-->
+                <div class="area1_l">
+                    <div id="slide_x" class="slide_x">
+                        <div class="box">
+                        <ul class="list">
+                                                <li><a href="/hj/2019rili.html" target="_blank"><img src="http://pic1.win4000.com/tj/2019-11-11/5dc8bfe115eae.jpg" alt="2019年日历壁纸大全" title="2019年日历壁纸大全"></a><p>2019年日历壁纸大全</p></li>
+                                                <li><a href="/hj/1911yingshi.html" target="_blank"><img src="http://pic1.win4000.com/tj/2019-10-30/5db93ec9e99b9.jpg" alt="2019年11月份影视壁纸图片大全" title="2019年11月份影视壁纸图片大全"></a><p>2019年11月份影视壁纸图片大全</p></li>
+                                                <li><a href="/hj/lvyou.html" target="_blank"><img src="http://pic1.win4000.com/tj/2019-10-08/5d9c482019574.jpg" alt="热门旅游城市景点图片大全" title="热门旅游城市景点图片大全"></a><p>热门旅游城市景点图片大全</p></li>
+                                                <li><a href="/hj/jieri.html" target="_blank"><img src="http://pic1.win4000.com/tj/2019-11-11/5dc8bdab19efa.png" alt="全年节日壁纸图片大全" title="全年节日壁纸图片大全"></a><p>全年节日壁纸图片大全</p></li>
+                                                </ul>
+                        </div>
+                        <ul class="btn">
+                        <li class="b_1 selected">1</li>
+                        <li class="b_2">2</li>
+                        <li class="b_3">3</li>
+                        <li class="b_4">4</li>
+                        </ul>
+                        <div class="plus"></div>
+                        <div class="minus"></div>
+                    </div>
+                    <script>
+                    $("#slide_x").cxSlide({plus:true,minus:true});
+                    </script>
+                    <div class="area1_lb">
+                        <ul>
+                                                        <li>
+                                <a href="/zt/meishi.html" target="_blank">
+                                    <img src="http://pic1.win4000.com/tj/2017-07-11/596437262d27a.jpg" alt="美食" title="美食"/>
+                                    <p>美食</p>
+                                </a>
+                            </li>
+                                                        <li>
+                                <a href="/zt/xiaoqingxin.html" target="_blank">
+                                    <img src="http://pic1.win4000.com/tj/2018-03-10/5aa36f6286406.jpg" alt="小清新" title="小清新"/>
+                                    <p>小清新</p>
+                                </a>
+                            </li>
+                                                        <li>
+                                <a href="/zt/zhiwu.html" target="_blank">
+                                    <img src="http://pic1.win4000.com/tj/2018-03-10/5aa371279a53c.jpg" alt="植物" title="植物"/>
+                                    <p>植物</p>
+                                </a>
+                            </li>
+                                                        <li>
+                                <a href="/zt/youxi.html" target="_blank">
+                                    <img src="http://pic1.win4000.com/tj/2017-07-11/596437562ae53.jpg" alt="游戏" title="游戏"/>
+                                    <p>游戏</p>
+                                </a>
+                            </li>
+                                                        <li>
+                                <a href="/zt/shuaige.html" target="_blank">
+                                    <img src="http://pic1.win4000.com/tj/2017-07-11/596437616c3d0.jpg" alt="帅哥" title="帅哥"/>
+                                    <p>帅哥</p>
+                                </a>
+                            </li>
+                                                        <li>
+                                <a href="/zt/qiche.html" target="_blank">
+                                    <img src="http://pic1.win4000.com/tj/2017-07-11/5964376b37e28.jpg" alt="汽车" title="汽车"/>
+                                    <p>汽车</p>
+                                </a>
+                            </li>
+                                                        <li>
+                                <a href="/wallpaper_2357_0_0_1.html" target="_blank">
+                                    <img src="http://pic1.win4000.com/tj/2019-04-30/5cc7a88e55523.jpg" alt="体育" title="体育"/>
+                                    <p>体育</p>
+                                </a>
+                            </li>
+                                                        <li>
+                                <a href="/zt/junshi.html" target="_blank">
+                                    <img src="http://pic1.win4000.com/tj/2017-07-11/5964377ba1953.jpg" alt="军事" title="军事"/>
+                                    <p>军事</p>
+                                </a>
+                            </li>
+                                                        <li>
+                                <a href="/zt/jiaju.html" target="_blank">
+                                    <img src="http://pic1.win4000.com/tj/2017-07-11/596437888ad06.jpg" alt="家居" title="家居"/>
+                                    <p>家居</p>
+                                </a>
+                            </li>
+                                                        <li>
+                                <a href="/zt/fengjing.html" target="_blank">
+                                    <img src="http://pic1.win4000.com/tj/2017-07-11/5964379325a4b.jpg" alt="风景" title="风景"/>
+                                    <p>风景</p>
+                                </a>
+                            </li>
+                                                    </ul>
+                    </div>
+                </div>
+                <!--右-->	
+                <div class="area1_r">
+                    <div class="dsp">
+                        <p>当前您的电脑分辨率：<span id="client_screen"></span></p>
+                        <p><a id="client_wallpaper" href="" target="_blank">查看适合我的桌面壁纸</a></p>
+                    </div>
+                    <dl>
+                        <dt>
+                            <a class="contribute" href="http://www.win4000.com/feedback.html" target="_blank">欢迎投稿</a>
+                            <a class="wallpaper" href="http://www.win4000.com/zt/rili.html" target="_blank"><span>2019年11月</span>日历壁纸</a>
+                        </dt>
+                        <dd>
+                                                        <a  href="/mobile_2349_0_0_1.html" target="_blank"><img src="http://pic1.win4000.com/tj/2019-10-31/5dba8ed28059a.jpg" alt="卡通手机壁纸大全" title="卡通手机壁纸大全" /></a>
+                                                        <a  href="/sjzt/wenzi.html" target="_blank"><img src="http://pic1.win4000.com/tj/2019-10-31/5dba8c2372131.jpg" alt="唯美文字图片大全" title="唯美文字图片大全" /></a>
+                                                        <a  href="/hj/touxiang.html" target="_blank"><img src="http://pic1.win4000.com/tj/2019-10-31/5dba975d59b76.jpg" alt="热门头像图片大全" title="热门头像图片大全" /></a>
+                                                        <a  href="/sjzt/bbs.html" target="_blank"><img src="http://pic1.win4000.com/tj/2019-11-07/5dc37c903f82b.jpg" alt="笨笨鼠手机壁纸大全" title="笨笨鼠手机壁纸大全" /></a>
+                                                        <a class="img02" href="/hj/nba.html" target="_blank"><img src="http://pic1.win4000.com/tj/2018-06-01/5b110f9ccf726.jpg" alt="2018NBA全明星" title="2018NBA全明星" /></a>
+                                                        <a  href="/hj/wangzherongyao.html" target="_blank"><img src="http://pic1.win4000.com/tj/2019-01-07/5c32f7f0bb2a0.jpg" alt="王者荣耀图片大全" title="王者荣耀图片大全" /></a>
+                                                        <a  href="/meinvtag37_1.html" target="_blank"><img src="http://pic1.win4000.com/tj/2019-11-07/5dc37c8086a51.jpg" alt="热播电影图片大全" title="热播电影图片大全" /></a>
+                                                        <a  href="/zt/cc0.html" target="_blank"><img src="http://pic1.win4000.com/tj/2018-10-17/5bc6cac262099.jpg" alt="正版授权壁纸大全" title="正版授权壁纸大全" /></a>
+                                                        <a  href="/hj/biaoqingbao.html" target="_blank"><img src="http://pic1.win4000.com/tj/2019-01-23/5c48032470ece.jpg" alt="最热表情包图片大全" title="最热表情包图片大全" /></a>
+                                                    </dd>
+                    </dl>
+                </div>
+            </div>
+        </div>
+        <!--精彩推荐-->
+        <div class="list_cont list_cont1 w1180">
+        	<div class="tit clearfix">
+            	<h2>精彩推荐</h2>
+            </div> 
+            <div class="tab_tj">
+                <div class="tab_box">
+                    <div class="">
+                    	<ul class="clearfix">
+                        	                            <li>
+                            	<a href="/zt/yingxionglianmeng.html" target="_blank">
+                                    <img src="http://pic1.win4000.com/tj/2019-10-25/5db25b6d5f2dc.jpg" alt="LOL英雄联盟壁纸图片大全" title="LOL英雄联盟壁纸图片大全" />
+                                    <p>LOL英雄联盟壁纸图片大全</p>
+                                </a>
+                            </li>
+                                                        <li>
+                            	<a href="/hj/2019nian10ydm.html" target="_blank">
+                                    <img src="http://pic1.win4000.com/tj/2019-09-21/5d85c6c1353e8.jpg" alt="2019年动漫图片大全" title="2019年动漫图片大全" />
+                                    <p>2019年动漫图片大全</p>
+                                </a>
+                            </li>
+                                                        <li>
+                            	<a href="/hj/2018cxyx.html" target="_blank">
+                                    <img src="http://pic1.win4000.com/tj/2019-10-25/5db25ab5e67bc.jpg" alt="2019年畅销游戏图片大全" title="2019年畅销游戏图片大全" />
+                                    <p>2019年畅销游戏图片大全</p>
+                                </a>
+                            </li>
+                                                        <li>
+                            	<a href="/hj/manwei.html" target="_blank">
+                                    <img src="http://pic1.win4000.com/tj/2019-05-27/5ceb5ce7f238d.jpg" alt="漫威系列壁纸图片大全" title="漫威系列壁纸图片大全" />
+                                    <p>漫威系列壁纸图片大全</p>
+                                </a>
+                            </li>
+                                                        <li>
+                            	<a href="/hj/wzjdyl.html" target="_blank">
+                                    <img src="http://pic1.win4000.com/tj/2019-08-16/5d564d642799c.jpg" alt="励志文字语录壁纸大全" title="励志文字语录壁纸大全" />
+                                    <p>励志文字语录壁纸大全</p>
+                                </a>
+                            </li>
+                                                        <li>
+                            	<a href="/zt/huyan_1.html" target="_blank">
+                                    <img src="http://pic1.win4000.com/tj/2019-10-31/5dbaa296d7cca.jpg" alt="小清新绿色护眼壁纸大全" title="小清新绿色护眼壁纸大全" />
+                                    <p>小清新绿色护眼壁纸大全</p>
+                                </a>
+                            </li>
+                                                        <li>
+                            	<a href="/hj/zhongguofengjing.html" target="_blank">
+                                    <img src="http://pic1.win4000.com/tj/2019-10-16/5da6cf803de5f.jpg" alt="国内旅游景点壁纸大全" title="国内旅游景点壁纸大全" />
+                                    <p>国内旅游景点壁纸大全</p>
+                                </a>
+                            </li>
+                                                        <li>
+                            	<a href="/hj/xiaoqingxin.html" target="_blank">
+                                    <img src="http://pic1.win4000.com/tj/2019-09-21/5d85ccd9b485f.jpg" alt="简约插画图片壁纸大全" title="简约插画图片壁纸大全" />
+                                    <p>简约插画图片壁纸大全</p>
+                                </a>
+                            </li>
+                                                        <li>
+                            	<a href="/hj/qiutian.html" target="_blank">
+                                    <img src="http://pic1.win4000.com/tj/2019-10-08/5d9c495a9c5a5.jpg" alt="秋天来了图片壁纸大全" title="秋天来了图片壁纸大全" />
+                                    <p>秋天来了图片壁纸大全</p>
+                                </a>
+                            </li>
+                                                        <li>
+                            	<a href="/zt/sheji.html" target="_blank">
+                                    <img src="http://pic1.win4000.com/tj/2019-09-21/5d85deeb37e39.jpg" alt="设计创意桌面壁纸大全" title="设计创意桌面壁纸大全" />
+                                    <p>设计创意桌面壁纸大全</p>
+                                </a>
+                            </li>
+                                                    </ul>
+                    </div>
+                </div>
+            </div>           
+        </div>
+        <!--桌面壁纸-->
+        <div class="list_cont list_cont1  w1180">
+            <div class="tit clearfix">
+                <h2>桌面壁纸</h2><a href="http://www.win4000.com/wallpaper.html" class="tit_more" target="_blank">更多>></a>
+            </div> 
+            <div class="tab_hj">
+                <div class="tab_box">
+                    <div class="">
+                        <ul class="clearfix">
+                                                        <li>
+                                 <a href="http://www.win4000.com/wallpaper_detail_163206.html" target="_blank">
+                                    <img src="http://static.win4000.com/home/images/placeholder.jpg" data-original="http://pic1.win4000.com/wallpaper/2019-11-15/5dce7379920f3_270_185.jpg" alt="清新好看的植物花卉桌面壁纸"  title="清新好看的植物花卉桌面壁纸" />
+                                    <p>清新好看的植物花卉桌面壁纸</p>
+                                </a>
+                            </li>
+                                                        <li>
+                                 <a href="http://www.win4000.com/wallpaper_detail_163205.html" target="_blank">
+                                    <img src="http://static.win4000.com/home/images/placeholder.jpg" data-original="http://pic1.win4000.com/wallpaper/2019-11-15/5dce6c7576c99_270_185.jpg" alt="清甜可口的蓝莓图片桌面壁纸"  title="清甜可口的蓝莓图片桌面壁纸" />
+                                    <p>清甜可口的蓝莓图片桌面壁纸</p>
+                                </a>
+                            </li>
+                                                        <li>
+                                 <a href="http://www.win4000.com/wallpaper_detail_163204.html" target="_blank">
+                                    <img src="http://static.win4000.com/home/images/placeholder.jpg" data-original="http://pic1.win4000.com/wallpaper/2019-11-15/5dce6afbedbb5_270_185.jpg" alt="精选唯美山水风光电脑壁纸"  title="精选唯美山水风光电脑壁纸" />
+                                    <p>精选唯美山水风光电脑壁纸</p>
+                                </a>
+                            </li>
+                                                        <li>
+                                 <a href="http://www.win4000.com/wallpaper_detail_163198.html" target="_blank">
+                                    <img src="http://static.win4000.com/home/images/placeholder.jpg" data-original="http://pic1.win4000.com/wallpaper/2019-11-15/5dce63f631104_270_185.jpg" alt="进击的巨人动漫高清桌面壁纸"  title="进击的巨人动漫高清桌面壁纸" />
+                                    <p>进击的巨人动漫高清桌面壁纸</p>
+                                </a>
+                            </li>
+                                                        <li>
+                                 <a href="http://www.win4000.com/wallpaper_detail_163194.html" target="_blank">
+                                    <img src="http://static.win4000.com/home/images/placeholder.jpg" data-original="http://pic1.win4000.com/wallpaper/2019-11-15/5dce5b8e46439_270_185.jpg" alt="唯美浪漫秋日风景桌面壁纸"  title="唯美浪漫秋日风景桌面壁纸" />
+                                    <p>唯美浪漫秋日风景桌面壁纸</p>
+                                </a>
+                            </li>
+                                                        <li>
+                                 <a href="http://www.win4000.com/wallpaper_detail_163193.html" target="_blank">
+                                    <img src="http://static.win4000.com/home/images/placeholder.jpg" data-original="http://pic1.win4000.com/wallpaper/2019-11-15/5dce59468699d_270_185.jpg" alt="尼泊尔雪山风光图片桌面壁纸"  title="尼泊尔雪山风光图片桌面壁纸" />
+                                    <p>尼泊尔雪山风光图片桌面壁纸</p>
+                                </a>
+                            </li>
+                                                        <li>
+                                 <a href="http://www.win4000.com/wallpaper_detail_163191.html" target="_blank">
+                                    <img src="http://static.win4000.com/home/images/placeholder.jpg" data-original="http://pic1.win4000.com/wallpaper/2019-11-15/5dce47cf0e8e2_270_185.jpg" alt="张若昀酷帅写真图片桌面壁纸"  title="张若昀酷帅写真图片桌面壁纸" />
+                                    <p>张若昀酷帅写真图片桌面壁纸</p>
+                                </a>
+                            </li>
+                                                        <li>
+                                 <a href="http://www.win4000.com/wallpaper_detail_163190.html" target="_blank">
+                                    <img src="http://static.win4000.com/home/images/placeholder.jpg" data-original="http://pic1.win4000.com/wallpaper/2019-11-15/5dce449d64608_270_185.jpg" alt="唯美城市乡间自然风光美景图片壁纸"  title="唯美城市乡间自然风光美景图片壁纸" />
+                                    <p>唯美城市乡间自然风光美景图片壁纸</p>
+                                </a>
+                            </li>
+                                                        <li>
+                                 <a href="http://www.win4000.com/wallpaper_detail_163189.html" target="_blank">
+                                    <img src="http://static.win4000.com/home/images/placeholder.jpg" data-original="http://pic1.win4000.com/wallpaper/2019-11-15/5dce443d99b5a_270_185.jpg" alt="夕阳美景自然风光唯美图片桌面壁纸"  title="夕阳美景自然风光唯美图片桌面壁纸" />
+                                    <p>夕阳美景自然风光唯美图片桌面壁纸</p>
+                                </a>
+                            </li>
+                                                        <li>
+                                 <a href="http://www.win4000.com/wallpaper_detail_163187.html" target="_blank">
+                                    <img src="http://static.win4000.com/home/images/placeholder.jpg" data-original="http://pic1.win4000.com/wallpaper/2019-11-15/5dce43e89454b_270_185.jpg" alt="唯美秋日风光美景图片桌面壁纸"  title="唯美秋日风光美景图片桌面壁纸" />
+                                    <p>唯美秋日风光美景图片桌面壁纸</p>
+                                </a>
+                            </li>
+                                                    </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!--手机壁纸-->
+        <div class="list_cont list_cont2  w1180">
+            <div class="tit clearfix">
+                <h2>手机壁纸</h2><a href="http://www.win4000.com/mobile.html" class="tit_more" target="_blank">更多>></a>
+            </div> 
+            <div class="tab_hj">
+                <div class="tab_box">
+                    <div class="">
+                        <ul class="clearfix">
+                                                        <li>
+                                 <a href="http://www.win4000.com/mobile_detail_163203.html" target="_blank">
+                                    <img src="http://static.win4000.com/home/images/placeholder.jpg" data-original="http://pic1.win4000.com/mobile/2019-11-15/5dce680cc78f5_250_300.jpg" alt="超可爱萌物图片手机壁纸"  title="超可爱萌物图片手机壁纸" />
+                                    <p>超可爱萌物图片手机壁纸</p>
+                                </a>
+                            </li>
+                                                        <li>
+                                 <a href="http://www.win4000.com/mobile_detail_163201.html" target="_blank">
+                                    <img src="http://static.win4000.com/home/images/placeholder.jpg" data-original="http://pic1.win4000.com/mobile/2019-11-15/5dce64eb54adc_250_300.jpg" alt="豪车奔驰系列高清手机壁纸"  title="豪车奔驰系列高清手机壁纸" />
+                                    <p>豪车奔驰系列高清手机壁纸</p>
+                                </a>
+                            </li>
+                                                        <li>
+                                 <a href="http://www.win4000.com/mobile_detail_163200.html" target="_blank">
+                                    <img src="http://static.win4000.com/home/images/placeholder.jpg" data-original="http://pic1.win4000.com/mobile/2019-11-15/5dce647e239e3_250_300.jpg" alt="约会大作战二次元高清手机壁纸"  title="约会大作战二次元高清手机壁纸" />
+                                    <p>约会大作战二次元高清手机壁纸</p>
+                                </a>
+                            </li>
+                                                        <li>
+                                 <a href="http://www.win4000.com/mobile_detail_163199.html" target="_blank">
+                                    <img src="http://static.win4000.com/home/images/placeholder.jpg" data-original="http://pic1.win4000.com/mobile/2019-11-15/5dce640eeb684_250_300.jpg" alt="反派角色小丑高清手机壁纸"  title="反派角色小丑高清手机壁纸" />
+                                    <p>反派角色小丑高清手机壁纸</p>
+                                </a>
+                            </li>
+                                                        <li>
+                                 <a href="http://www.win4000.com/mobile_detail_163197.html" target="_blank">
+                                    <img src="http://static.win4000.com/home/images/placeholder.jpg" data-original="http://pic1.win4000.com/mobile/2019-11-15/5dce638362e49_250_300.jpg" alt="简约文字设计高清手机壁纸"  title="简约文字设计高清手机壁纸" />
+                                    <p>简约文字设计高清手机壁纸</p>
+                                </a>
+                            </li>
+                                                        <li>
+                                 <a href="http://www.win4000.com/mobile_detail_163196.html" target="_blank">
+                                    <img src="http://static.win4000.com/home/images/placeholder.jpg" data-original="http://pic1.win4000.com/mobile/2019-11-15/5dce62ff5a753_250_300.jpg" alt="简洁创意个性设计高清手机壁纸"  title="简洁创意个性设计高清手机壁纸" />
+                                    <p>简洁创意个性设计高清手机壁纸</p>
+                                </a>
+                            </li>
+                                                        <li>
+                                 <a href="http://www.win4000.com/mobile_detail_163188.html" target="_blank">
+                                    <img src="http://static.win4000.com/home/images/placeholder.jpg" data-original="http://pic1.win4000.com/mobile/2019-11-15/5dce45055a059_250_300.jpg" alt="李现酷帅写真手机壁纸"  title="李现酷帅写真手机壁纸" />
+                                    <p>李现酷帅写真手机壁纸</p>
+                                </a>
+                            </li>
+                                                        <li>
+                                 <a href="http://www.win4000.com/mobile_detail_163185.html" target="_blank">
+                                    <img src="http://static.win4000.com/home/images/placeholder.jpg" data-original="http://pic1.win4000.com/mobile/2019-11-15/5dce400e0fc98_250_300.jpg" alt="秋天落叶风景手机壁纸"  title="秋天落叶风景手机壁纸" />
+                                    <p>秋天落叶风景手机壁纸</p>
+                                </a>
+                            </li>
+                                                        <li>
+                                 <a href="http://www.win4000.com/mobile_detail_163183.html" target="_blank">
+                                    <img src="http://static.win4000.com/home/images/placeholder.jpg" data-original="http://pic1.win4000.com/mobile/2019-11-15/5dce3f08bb51c_250_300.jpg" alt="唯美植物花朵手机壁纸"  title="唯美植物花朵手机壁纸" />
+                                    <p>唯美植物花朵手机壁纸</p>
+                                </a>
+                            </li>
+                                                        <li>
+                                 <a href="http://www.win4000.com/mobile_detail_163161.html" target="_blank">
+                                    <img src="http://static.win4000.com/home/images/placeholder.jpg" data-original="http://pic1.win4000.com/mobile/2019-11-14/5dcd16ccebfaf_250_300.jpg" alt="呆萌可爱小狗高清手机壁纸"  title="呆萌可爱小狗高清手机壁纸" />
+                                    <p>呆萌可爱小狗高清手机壁纸</p>
+                                </a>
+                            </li>
+                                                    </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!--图片大全-->
+        <div class="list_cont list_cont2  w1180">
+            <div class="tit clearfix">
+                <h2>图片大全</h2><a href="http://www.win4000.com/retu.html" class="tit_more" target="_blank">更多>></a>
+            </div> 
+            <div class="tab_tp">
+                <div class="tab_box">
+                    <div class="">
+                        <ul class="clearfix">
+                                                        <li>
+                                <a href="http://www.win4000.com/meinv190367.html" target="_blank">
+                                    <img src="http://static.win4000.com/home/images/placeholder.jpg" data-original = "http://pic1.win4000.com/pic/1/92/716e828d6b_250_300.jpg" alt="《没有秘密的你》收官剧照图片"  title="《没有秘密的你》收官剧照图片" />
+                                    <p>《没有秘密的你》收官剧照图片</p>
+                                </a>
+                            </li>
+                                                        <li>
+                                <a href="http://www.win4000.com/meinv190356.html" target="_blank">
+                                    <img src="http://static.win4000.com/home/images/placeholder.jpg" data-original = "http://pic1.win4000.com/pic/7/da/5a531c7ba6_250_300.jpg" alt="张哲瀚《演员请就位》剧照图片"  title="张哲瀚《演员请就位》剧照图片" />
+                                    <p>张哲瀚《演员请就位》剧照图片</p>
+                                </a>
+                            </li>
+                                                        <li>
+                                <a href="http://www.win4000.com/meinv190346.html" target="_blank">
+                                    <img src="http://static.win4000.com/home/images/placeholder.jpg" data-original = "http://pic1.win4000.com/pic/b/14/2e12d8e45b_250_300.jpg" alt="张若昀超帅黑白写真图片"  title="张若昀超帅黑白写真图片" />
+                                    <p>张若昀超帅黑白写真图片</p>
+                                </a>
+                            </li>
+                                                        <li>
+                                <a href="http://www.win4000.com/meinv190344.html" target="_blank">
+                                    <img src="http://static.win4000.com/home/images/placeholder.jpg" data-original = "http://pic1.win4000.com/pic/2/fc/475aa4cfef_250_300.jpg" alt="邓伦《上新了故宫》精致帅气图片"  title="邓伦《上新了故宫》精致帅气图片" />
+                                    <p>邓伦《上新了故宫》精致帅气图片</p>
+                                </a>
+                            </li>
+                                                        <li>
+                                <a href="http://www.win4000.com/meinv190330.html" target="_blank">
+                                    <img src="http://static.win4000.com/home/images/placeholder.jpg" data-original = "http://pic1.win4000.com/pic/9/5e/a037ba592d_250_300.jpg" alt="张云龙帅气不羁写真大片"  title="张云龙帅气不羁写真大片" />
+                                    <p>张云龙帅气不羁写真大片</p>
+                                </a>
+                            </li>
+                                                        <li>
+                                <a href="http://www.win4000.com/meinv190329.html" target="_blank">
+                                    <img src="http://static.win4000.com/home/images/placeholder.jpg" data-original = "http://pic1.win4000.com/pic/3/d3/da99117cc7_250_300.jpg" alt="《鹤唳华亭》最新剧照图片"  title="《鹤唳华亭》最新剧照图片" />
+                                    <p>《鹤唳华亭》最新剧照图片</p>
+                                </a>
+                            </li>
+                                                        <li>
+                                <a href="http://www.win4000.com/meinv190323.html" target="_blank">
+                                    <img src="http://static.win4000.com/home/images/placeholder.jpg" data-original = "http://pic1.win4000.com/pic/7/f0/597148ffd2_250_300.jpg" alt="徐正溪时尚帅气写真图片"  title="徐正溪时尚帅气写真图片" />
+                                    <p>徐正溪时尚帅气写真图片</p>
+                                </a>
+                            </li>
+                                                        <li>
+                                <a href="http://www.win4000.com/meinv190321.html" target="_blank">
+                                    <img src="http://static.win4000.com/home/images/placeholder.jpg" data-original = "http://pic1.win4000.com/pic/1/ad/44ee866a16_250_300.jpg" alt="高至霆黑白质感帅气写真图片"  title="高至霆黑白质感帅气写真图片" />
+                                    <p>高至霆黑白质感帅气写真图片</p>
+                                </a>
+                            </li>
+                                                        <li>
+                                <a href="http://www.win4000.com/meinv190304.html" target="_blank">
+                                    <img src="http://static.win4000.com/home/images/placeholder.jpg" data-original = "http://pic1.win4000.com/pic/8/66/8e09cfa7c1_250_300.jpg" alt="华晨宇火星演唱会排练图片"  title="华晨宇火星演唱会排练图片" />
+                                    <p>华晨宇火星演唱会排练图片</p>
+                                </a>
+                            </li>
+                                                        <li>
+                                <a href="http://www.win4000.com/meinv190301.html" target="_blank">
+                                    <img src="http://static.win4000.com/home/images/placeholder.jpg" data-original = "http://pic1.win4000.com/pic/f/d6/ac6b18c919_250_300.jpg" alt="蔡徐坤蓝色西装帅气写真图片"  title="蔡徐坤蓝色西装帅气写真图片" />
+                                    <p>蔡徐坤蓝色西装帅气写真图片</p>
+                                </a>
+                            </li>
+                                                    </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!--图片专题-->
+        <div class="list_cont list_cont2 w1180">
+            <div class="tit clearfix">
+                <h2>图片专题</h2><a href="http://www.win4000.com/mt/index.html" class="tit_more" target="_blank">更多>></a>
+            </div> 
+            <div class="tab_zt">
+                <div class="tab_box">
+                    <div class="">
+                        <ul class="clearfix">
+                                                        <li>
+                                <a href="http://www.win4000.com/mt/shangxinlegugong.html" target="_blank">
+                                    <img src="http://static.win4000.com/home/images/placeholder.jpg" data-original="http://pic1.win4000.com/cover/2019-11-15/20191115135933_65950_250_300.jpg" alt="上新了故宫图片大全" title="上新了故宫图片大全" />
+                                    <p>上新了故宫图片大全</p>
+                                </a>
+                            </li>
+                                                        <li>
+                                <a href="http://www.win4000.com/mt/hechangxi.html" target="_blank">
+                                    <img src="http://static.win4000.com/home/images/placeholder.jpg" data-original="http://pic1.win4000.com/cover/2019-11-13/20191113144441_62932_250_300.jpg" alt="何昶希图片大全" title="何昶希图片大全" />
+                                    <p>何昶希图片大全</p>
+                                </a>
+                            </li>
+                                                        <li>
+                                <a href="http://www.win4000.com/mt/liangzhilaohu.html" target="_blank">
+                                    <img src="http://static.win4000.com/home/images/placeholder.jpg" data-original="http://pic1.win4000.com/cover/2019-11-13/20191113140447_82715_250_300.jpg" alt="两只老虎图片大全" title="两只老虎图片大全" />
+                                    <p>两只老虎图片大全</p>
+                                </a>
+                            </li>
+                                                        <li>
+                                <a href="http://www.win4000.com/mt/mingxingdazhentan5.html" target="_blank">
+                                    <img src="http://static.win4000.com/home/images/placeholder.jpg" data-original="http://pic1.win4000.com/cover/2019-11-12/20191112141657_20850_250_300.jpg" alt="明星大侦探第五季图片大全" title="明星大侦探第五季图片大全" />
+                                    <p>明星大侦探第五季图片大全</p>
+                                </a>
+                            </li>
+                                                        <li>
+                                <a href="http://www.win4000.com/mt/helihuating.html" target="_blank">
+                                    <img src="http://static.win4000.com/home/images/placeholder.jpg" data-original="http://pic1.win4000.com/cover/2019-11-12/20191112131020_66617_250_300.png" alt="鹤唳华亭图片大全" title="鹤唳华亭图片大全" />
+                                    <p>鹤唳华亭图片大全</p>
+                                </a>
+                            </li>
+                                                        <li>
+                                <a href="http://www.win4000.com/mt/handong.html" target="_blank">
+                                    <img src="http://static.win4000.com/home/images/placeholder.jpg" data-original="http://pic1.win4000.com/cover/2019-11-12/20191112113259_72767_250_300.jpg" alt="韩栋图片大全" title="韩栋图片大全" />
+                                    <p>韩栋图片大全</p>
+                                </a>
+                            </li>
+                                                        <li>
+                                <a href="http://www.win4000.com/mt/cqyzljs.html" target="_blank">
+                                    <img src="http://static.win4000.com/home/images/placeholder.jpg" data-original="http://pic1.win4000.com/cover/2019-11-11/20191111112729_41530_250_300.jpg" alt="从前有座灵剑山图片大全" title="从前有座灵剑山图片大全" />
+                                    <p>从前有座灵剑山图片大全</p>
+                                </a>
+                            </li>
+                                                        <li>
+                                <a href="http://www.win4000.com/mt/dayuezaidongji.html" target="_blank">
+                                    <img src="http://static.win4000.com/home/images/placeholder.jpg" data-original="http://pic1.win4000.com/cover/2019-11-08/20191108132757_19065_250_300.jpg" alt="大约在冬季图片大全" title="大约在冬季图片大全" />
+                                    <p>大约在冬季图片大全</p>
+                                </a>
+                            </li>
+                                                        <li>
+                                <a href="http://www.win4000.com/mt/shuang11.html" target="_blank">
+                                    <img src="http://static.win4000.com/home/images/placeholder.jpg" data-original="http://pic1.win4000.com/cover/2019-11-08/20191108103956_30917_250_300.jpg" alt="双十一表情包图片" title="双十一表情包图片" />
+                                    <p>双十一表情包图片</p>
+                                </a>
+                            </li>
+                                                        <li>
+                                <a href="http://www.win4000.com/mt/qizidelangmanlvxing3.html" target="_blank">
+                                    <img src="http://static.win4000.com/home/images/placeholder.jpg" data-original="http://pic1.win4000.com/cover/2019-11-07/20191107154419_66305_250_300.jpg" alt="妻子的浪漫旅行第三季图片大全" title="妻子的浪漫旅行第三季图片大全" />
+                                    <p>妻子的浪漫旅行第三季图片大全</p>
+                                </a>
+                            </li>
+                                                    </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!--精品合集图片-->
+        <div class="list_cont list_cont1  w1180">
+            <div class="tit clearfix">
+                <h2>精品合集图片</h2><a href="http://www.win4000.com/hj/index.html" class="tit_more" target="_blank">更多>></a>
+            </div> 
+            <div class="tab_hj">
+                <div class="tab_box">
+                    <div class="">
+                        <ul class="clearfix">
+                                                        <li>
+                                <a href="http://www.win4000.com/hj/helihuating.html" target="_blank">
+                                    <img src="http://static.win4000.com/home/images/placeholder.jpg" data-original="http://pic1.win4000.com/cover/2019-11-15/20191115112456_28816_270_185.jpg" alt="鹤唳华亭图片大全" title="鹤唳华亭图片大全" />
+                                    <p>鹤唳华亭图片大全</p>
+                                </a>
+                            </li>
+                                                        <li>
+                                <a href="http://www.win4000.com/hj/mingxingdazhentan5.html" target="_blank">
+                                    <img src="http://static.win4000.com/home/images/placeholder.jpg" data-original="http://pic1.win4000.com/cover/2019-11-14/20191114103550_78581_270_185.jpg" alt="明星大侦探第五季图片大全" title="明星大侦探第五季图片大全" />
+                                    <p>明星大侦探第五季图片大全</p>
+                                </a>
+                            </li>
+                                                        <li>
+                                <a href="http://www.win4000.com/hj/qzdlmlx3.html" target="_blank">
+                                    <img src="http://static.win4000.com/home/images/placeholder.jpg" data-original="http://pic1.win4000.com/cover/2019-11-07/20191107162055_60663_270_185.jpg" alt="妻子的浪漫旅行第三季图片大全" title="妻子的浪漫旅行第三季图片大全" />
+                                    <p>妻子的浪漫旅行第三季图片大全</p>
+                                </a>
+                            </li>
+                                                        <li>
+                                <a href="http://www.win4000.com/hj/wangou.html" target="_blank">
+                                    <img src="http://static.win4000.com/home/images/placeholder.jpg" data-original="http://pic1.win4000.com/cover/2019-11-07/20191107132500_97304_270_185.jpg" alt="王鸥图片大全" title="王鸥图片大全" />
+                                    <p>王鸥图片大全</p>
+                                </a>
+                            </li>
+                                                        <li>
+                                <a href="http://www.win4000.com/hj/zhangkeying.html" target="_blank">
+                                    <img src="http://static.win4000.com/home/images/placeholder.jpg" data-original="http://pic1.win4000.com/cover/2019-11-01/20191101174441_18978_270_185.jpg" alt="张可盈壁纸图片大全" title="张可盈壁纸图片大全" />
+                                    <p>张可盈壁纸图片大全</p>
+                                </a>
+                            </li>
+                                                        <li>
+                                <a href="http://www.win4000.com/hj/1911yingshi.html" target="_blank">
+                                    <img src="http://static.win4000.com/home/images/placeholder.jpg" data-original="http://pic1.win4000.com/cover/2019-10-30/20191030150621_91198_270_185.jpg" alt="2019年11月影视壁纸图片大全" title="2019年11月影视壁纸图片大全" />
+                                    <p>2019年11月影视壁纸图片大全</p>
+                                </a>
+                            </li>
+                                                        <li>
+                                <a href="http://www.win4000.com/hj/dzshzjz.html" target="_blank">
+                                    <img src="http://static.win4000.com/home/images/placeholder.jpg" data-original="http://pic1.win4000.com/cover/2019-10-30/20191030104250_30433_270_185.jpg" alt="谍战深海之惊蛰图片大全" title="谍战深海之惊蛰图片大全" />
+                                    <p>谍战深海之惊蛰图片大全</p>
+                                </a>
+                            </li>
+                                                        <li>
+                                <a href="http://www.win4000.com/hj/mymmdn.html" target="_blank">
+                                    <img src="http://static.win4000.com/home/images/placeholder.jpg" data-original="http://pic1.win4000.com/cover/2019-10-24/20191024113243_86189_270_185.jpg" alt="没有秘密的你图片大全" title="没有秘密的你图片大全" />
+                                    <p>没有秘密的你图片大全</p>
+                                </a>
+                            </li>
+                                                        <li>
+                                <a href="http://www.win4000.com/hj/yanyuanqingjiuwei.html" target="_blank">
+                                    <img src="http://static.win4000.com/home/images/placeholder.jpg" data-original="http://pic1.win4000.com/cover/2019-10-18/20191018102803_74600_270_185.jpg" alt="演员请就位图片大全" title="演员请就位图片大全" />
+                                    <p>演员请就位图片大全</p>
+                                </a>
+                            </li>
+                                                        <li>
+                                <a href="http://www.win4000.com/hj/wbnladnpy.html" target="_blank">
+                                    <img src="http://static.win4000.com/home/images/placeholder.jpg" data-original="http://pic1.win4000.com/cover/2019-10-16/20191016143003_81526_270_185.jpg" alt="我不能恋爱的女朋友图片大全" title="我不能恋爱的女朋友图片大全" />
+                                    <p>我不能恋爱的女朋友图片大全</p>
+                                </a>
+                            </li>
+                                                    </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!--推荐标签-->
+        <div class="tj_label">
+        	<div class="tit clearfix">
+            	<h2>推荐标签</h2><a href="http://www.win4000.com/tags_wallpaper.html" class="tit_more">更多>></a>
+            </div> 
+        	<ul class="clearfix">
+                            	<li><a href="/hj/oumeimeinv.html" alt="欧美美女" title="欧美美女" target="_blank">欧美美女</a></li>
+                            	<li><a href="/meinvtag13183.html" alt="Abby" title="Abby" target="_blank">Abby</a></li>
+                            	<li><a href="/meinvtag12175.html" alt="悬疑" title="悬疑" target="_blank">悬疑</a></li>
+                            	<li><a href="/meinvtag20889.html" alt="同道大叔" title="同道大叔" target="_blank">同道大叔</a></li>
+                            	<li><a href="/zt/fengjing.html" alt="风景" title="风景" target="_blank">风景</a></li>
+                            	<li><a href="/hj/haibianmeinv.html" alt="海边美女" title="海边美女" target="_blank">海边美女</a></li>
+                            	<li><a href="/meinvtag10144.html" alt="艺术照" title="艺术照" target="_blank">艺术照</a></li>
+                            	<li><a href="/zt/lvye.html" alt="绿叶" title="绿叶" target="_blank">绿叶</a></li>
+                            	<li><a href="/hj/douxiao.html" alt="窦骁壁纸图片大全" title="窦骁壁纸图片大全" target="_blank">窦骁壁纸图片大全</a></li>
+                            	<li><a href="/hj/xinniantupian.html" alt="2016新年" title="2016新年" target="_blank">2016新年</a></li>
+                            	<li><a href="/meinvtag12051.html" alt="搞笑图片" title="搞笑图片" target="_blank">搞笑图片</a></li>
+                            	<li><a href="/hj/zhifuyouhuo.html" alt="性感美女制服诱惑图片大全" title="性感美女制服诱惑图片大全" target="_blank">性感美女制服诱惑图片大全</a></li>
+                            	<li><a href="/zt/zhaocaitongzi.html" alt="招财童子" title="招财童子" target="_blank">招财童子</a></li>
+                            	<li><a href="/meinvtag10722.html" alt="校园制服" title="校园制服" target="_blank">校园制服</a></li>
+                            	<li><a href="/hj/cangshu.html" alt="仓鼠" title="仓鼠" target="_blank">仓鼠</a></li>
+                            	<li><a href="/zt/feiji.html" alt="飞机" title="飞机" target="_blank">飞机</a></li>
+                            	<li><a href="/meinvtag11081.html" alt="学生" title="学生" target="_blank">学生</a></li>
+                            	<li><a href="/zt/xianhuabizhi.html" alt="鲜花" title="鲜花" target="_blank">鲜花</a></li>
+                            	<li><a href="/hj/1708yingshi.html" alt="2017年8月影视壁纸精选图片大全" title="2017年8月影视壁纸精选图片大全" target="_blank">2017年8月影视壁纸精选图片大全</a></li>
+                            	<li><a href="/hj/dilireba.html" alt="迪丽热巴壁纸图片大全" title="迪丽热巴壁纸图片大全" target="_blank">迪丽热巴壁纸图片大全</a></li>
+                            	<li><a href="/hj/OnePiece.html" alt="海贼王图片大全" title="海贼王图片大全" target="_blank">海贼王图片大全</a></li>
+                            	<li><a href="/zt/jinhan.html" alt="金瀚" title="金瀚" target="_blank">金瀚</a></li>
+                            	<li><a href="/zt/qizhi.html" alt="气质" title="气质" target="_blank">气质</a></li>
+                            	<li><a href="/meinvtag10550.html" alt="生活照" title="生活照" target="_blank">生活照</a></li>
+                            	<li><a href="/zt/shuaixianhua.html" alt="水仙花" title="水仙花" target="_blank">水仙花</a></li>
+                            	<li><a href="/zt/zhandouji.html" alt="战斗机" title="战斗机" target="_blank">战斗机</a></li>
+                            	<li><a href="/zt/6yuerili.html" alt="6月日历" title="6月日历" target="_blank">6月日历</a></li>
+                            	<li><a href="/zt/xiaogou.html" alt="小狗" title="小狗" target="_blank">小狗</a></li>
+                            	<li><a href="/meinvtag10216.html" alt="阳光" title="阳光" target="_blank">阳光</a></li>
+                            	<li><a href="/meinvtag19088.html" alt="街拍图片" title="街拍图片" target="_blank">街拍图片</a></li>
+                            	<li><a href="/zt/gaoqing.html" alt="高清" title="高清" target="_blank">高清</a></li>
+                            	<li><a href="/zt/haitan.html" alt="海滩" title="海滩" target="_blank">海滩</a></li>
+                            	<li><a href="/zt/jieri.html" alt="节日" title="节日" target="_blank">节日</a></li>
+                            	<li><a href="/hj/Beautyleg2017.html" alt="Beautyleg腿模图片大全" title="Beautyleg腿模图片大全" target="_blank">Beautyleg腿模图片大全</a></li>
+                            	<li><a href="/meinvtag347.html" alt="爆乳" title="爆乳" target="_blank">爆乳</a></li>
+                            	<li><a href="/zt/dongmanzhuomian.html" alt="动漫桌面" title="动漫桌面" target="_blank">动漫桌面</a></li>
+                            	<li><a href="/meinvtag12754.html" alt="Lucy" title="Lucy" target="_blank">Lucy</a></li>
+                            	<li><a href="/meinvtag10268.html" alt="浴室" title="浴室" target="_blank">浴室</a></li>
+                            	<li><a href="/zt/erciyuan.html" alt="二次元" title="二次元" target="_blank">二次元</a></li>
+                            	<li><a href="/meinvtag3809.html" alt="养眼" title="养眼" target="_blank">养眼</a></li>
+                            	<li><a href="/zt/lantianbaiyun.html" alt="蓝天白云" title="蓝天白云" target="_blank">蓝天白云</a></li>
+                            	<li><a href="/zt/NINEPERCENT.html" alt="百分九男团" title="百分九男团" target="_blank">百分九男团</a></li>
+                            	<li><a href="/zt/jingxuan.html" alt="精选" title="精选" target="_blank">精选</a></li>
+                            	<li><a href="/zt/liyifeng.html" alt="李易峰" title="李易峰" target="_blank">李易峰</a></li>
+                            	<li><a href="/zt/qixi.html" alt="七夕" title="七夕" target="_blank">七夕</a></li>
+                            	<li><a href="/zt/jianling.html" alt="剑灵" title="剑灵" target="_blank">剑灵</a></li>
+                            	<li><a href="/zt/ziranmeijing.html" alt="自然美景" title="自然美景" target="_blank">自然美景</a></li>
+                            	<li><a href="/zt/wuqi.html" alt="武器" title="武器" target="_blank">武器</a></li>
+                            	<li><a href="/meinvtag14296.html" alt="Syuan" title="Syuan" target="_blank">Syuan</a></li>
+                            	<li><a href="/meinvtag11094.html" alt="知性" title="知性" target="_blank">知性</a></li>
+                            	<li><a href="/hj/huaerysn.html" alt="花儿与少年第三季图片大全" title="花儿与少年第三季图片大全" target="_blank">花儿与少年第三季图片大全</a></li>
+                            	<li><a href="/hj/hangzhouchengshifengjing.html" alt="杭州风景" title="杭州风景" target="_blank">杭州风景</a></li>
+                            	<li><a href="/hj/shaonvqianxian.html" alt="少女前线同人" title="少女前线同人" target="_blank">少女前线同人</a></li>
+                            	<li><a href="/hj/zetianji.html" alt="择天记壁纸图片大全" title="择天记壁纸图片大全" target="_blank">择天记壁纸图片大全</a></li>
+                            	<li><a href="/zt/weimei.html" alt="唯美" title="唯美" target="_blank">唯美</a></li>
+                            	<li><a href="/meinvtag2563.html" alt="美女明星" title="美女明星" target="_blank">美女明星</a></li>
+                            	<li><a href="/zt/meinvzhuomian.html" alt="美女桌面" title="美女桌面" target="_blank">美女桌面</a></li>
+                            	<li><a href="/meinvtag3424.html" alt="私房写真" title="私房写真" target="_blank">私房写真</a></li>
+                            </ul>
+        </div>
+    </div>
+</div>
+<!--友情链接-->
+<div class="friendLink">
+	<div class="cont clearfix">
+    	<div class="friendLink-title">
+        	<h2>友情链接</h2>
+        </div>
+        <div class="friendLink-link">
+			            <a href="http://www.16sucai.com/" target="_blank">素材中国</a>
+                        <a href="http://www.win7china.com/" target="_blank">Win7之家</a>
+                        <a href="http://www.laonanren.com/" target="_blank">老男人</a>
+                        <a href="http://www.newyx.net" target="_blank">单机游戏大全</a>
+                        <a href="http://www.wmpic.me/" target="_blank">唯美图片</a>
+                        <a href="http://www.7399.com" target="_blank">7399小游戏</a>
+                        <a href="http://p.ik123.com/" target="_blank">唯美图片</a>
+                        <a href="http://www.365j.com" target="_blank">剧情介绍</a>
+                        <a href="http://www.xitongcheng.com/" target="_blank">win7系统下载</a>
+                        <a href="http://www.139y.com" target="_blank">手机游戏攻略</a>
+                        <a href="http://so.ooopic.com" target="_blank">图片下载</a>
+                        <a href="http://xiaoguotu.to8to.com/" target="_blank">装修效果图</a>
+                        <a href="http://www.qqgexingqianming.com" target="_blank">QQ个性签名</a>
+                        <a href="http://www.jj20.com/" target="_blank">桌面壁纸高清</a>
+                        <a href="http://www.yxj18.com/" target="_blank">优先级新闻网</a>
+                        <a href="http://www.52z.com" target="_blank">飞翔下载</a>
+                        <a href="http://desk.zol.com.cn" target="_blank">桌面壁纸</a>
+                        <a href="http://www.yxbao.com/" target="_blank">单机游戏</a>
+                        <a href="http://so.ooopic.com" target="_blank">图片下载</a>
+                        <a href="http://www.anzhuoji.cn/" target="_blank">安卓机网</a>
+                        <a href="http://www.wanyx.com/" target="_blank">单机游戏下载</a>
+                        <a href="https://www.enterdesk.com/" target="_blank">壁纸</a>
+                        <a href="http://www.y5000.com" target="_blank">中国历史</a>
+                        <a href="http://www.laomaotao.net/" target="_blank">老毛桃winpe</a>
+                        <a href="http://www.goupuzi.com/" target="_blank">宠物狗</a>
+                    </div>
+    </div>
+</div>
+<!--footer-->
+<script type="text/javascript" charset="utf-8">
+$(document).ready(function() {
+    $('#client_screen').html(Util.screen);
+    $('#client_wallpaper').attr('href', getScreenUrl());
+});
+</script>
+<footer>
+<div class="a1000">
+</div>
+<div class="cont clearfix">
+    <div class="footer-left">
+        <a href="javascript:;"><img src="http://static.win4000.com/home/images/logo.png"/></a>
+    </div>
+    <div class="footer-right">
+        <p>声明：本站提供的<a href="http://www.win4000.com">桌面壁纸</a>、<a href="http://www.win4000.com">手机壁纸</a>、<a href="http://www.win4000.com">美女图片</a>等资源素材来自投稿以及收集于互联网，如果侵犯了您的版权请来信告知，我们会及时处理和回复。美桌壁纸网欢迎和各大网站进行合作，也欢迎来自用户、摄影机构和个人、模特、设计师的投稿，详情请发邮件投稿（邮件地址:win4000@126.com）或使用网站的<a href="http://www.win4000.com/feedback.html">投稿</a>功能。</p>
+        <span>CopyRight © 2008-2013 www.win4000.com 美桌壁纸网 All Rights Reserved  <a target="_blank" rel="nofollow" href="http://www.beian.miit.gov.cn/">湘ICP备16020871号</a>&nbsp;&nbsp;&nbsp;苏公网安备 32050702010336号</span>
+    </div>
+</div>
+</footer>
+<script type="text/javascript" src="http://static.win4000.com/home/js/common.js?v=20190107001"></script><script type="text/javascript" src="http://static.win4000.com/home/js/xinxiliu.js?v=20190107001"></script><script type="text/javascript" src="http://static.win4000.com/home/js/chuchuan.js?v=20190107001"></script><script type="text/javascript" src="http://static.win4000.com/home/js/index.js?v=20190107001"></script><script type="text/javascript" charset="utf-8">
+$(function() {
+    $("img").lazyload({
+        skip_invisible : false
+    });  
+});
+</script>
+<div style="display: none;">
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?492109f03bd65de28452325006c4a53c";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+<script>
+(function(){
+    var bp = document.createElement('script');
+    var curProtocol = window.location.protocol.split(':')[0];
+    if (curProtocol === 'https') {
+        bp.src = 'https://zz.bdstatic.com/linksubmit/push.js';
+    }
+    else {
+        bp.src = 'http://push.zhanzhang.baidu.com/push.js';
+    }
+    var s = document.getElementsByTagName("script")[0];
+    s.parentNode.insertBefore(bp, s);
+})();
+</script>
+<script type="text/javascript">
+$(document).ready(function(){
+    adtop.load();
+});
+</script>
+</div>
+</body>
+</html>

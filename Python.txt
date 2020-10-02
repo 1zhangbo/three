@@ -1,0 +1,106 @@
+.title():首字母大写函数
+.upper()全部大写
+.lower()全部小写
+字符串合并：
+ first_name = "ada"
+ last_name = "lovelace" 
+ full_name = first_name + " " + last_name 
+print(full_name)
+制表符\t
+换行符\n
+.rstrip()删除末尾的空格
+.lstrip()删除字符串开头的空格
+strip()： 删除两端的空格
+注释用井号（#）标识
+列表：bicycles = ['trek', 'cannondale', 'redline', 'specialized'] 
+          print(bicycles) 
+访问列表中的元素：
+   print(bicycles[-1])
+修改列表中的某个值：motorcycles[0] = 'ducati' 
+append（）在列表的末尾添加元素  如：motorcycles.append('ducati') 
+insert（）在列表的某个位置插入元素  如：motorcycles.insert(0, 'ducati')
+del 删除列表中的元素 如： del motorcycles[0] 
+pop()删除元素 如：
+    motorcycles = ['honda', 'yamaha', 'suzuki'] 
+    print(motorcycles) 
+ popped_motorcycle = motorcycles.pop() 
+ print(motorcycles)  
+    print(popped_motorcycle) 
+使用pop()来删除列表中任何位置的元素 如：pop(0)
+remove()按值删除列表中的值 如： motorcycles.remove('ducati') 
+ sort()对列表进行永久性排序  如 cars = ['bmw', 'audi', 'toyota', 'subaru']  cars.sort() 
+cars.sort(reverse=True) 按字母顺序相反排列
+ sorted()对列表进行临时排序 如：print(sorted(cars)) 
+ print（sorted（cars，reverse=true））：相反的顺序排列
+reverse到着打印列表 如：cars.reverse()   print(cars)
+len 获取列表的长度 如： len(cars) 
+遍历列表 如：magicians = ['alice', 'david', 'carolina']  for magician in magicians:     print（magician）
+函数 range() 生成一系列数字  如打印 一至四：for value in range(1,5):     print(value) 
+numbers = list(range(1,6)) 直接生成列表
+range(2,11,2)从2开始到11，每次加2
+**表示平方
+squares = [value**2 for value in range(1,11)] 直接生成列表
+切片 players = ['charles', 'martina', 'michael', 'florence', 'eli']  print(players[0:3]) 
+ my_foods = ['pizza', 'falafel', 'carrot cake']  friend_foods = my_foods[:] 
+元组 ： dimensions = (200, 50)  print(dimensions[0])   print(dimensions[1]) 
+Python指出不能给元组的元素赋值：
+遍历元组中的值
+in 检查某个元素是否在列表中   requested_toppings = ['mushrooms', 'onions', 'pineapple'] 'mushrooms' in requested_toppings 
+if——elif——else结构
+字典：如alien_0 = {'color': 'green', 'points': 5} 
+              print(alien_0['color']) print(alien_0['points']) 
+字典用放在花括号{}中的一系列键—值对表示
+要添加键—值对，可依次指定字典名、用 方括号括起的键和相关联的值
+如：alien_0['x_position'] = 0  alien_0['y_position'] = 25 
+创建字典：alien_0 = {} 
+alien_0['color'] = 'green' alien_0['points'] = 5 
+修改字典的值：alien_0['color'] = 'yellow'
+删除字典中的值 del alien_0['points'] 
+遍历字典for key, value in user_0.items():      print("\nKey: " + key)      print("Value: " + value) 
+遍历字典中的键：方法keys()    for name in favorite_languages.keys():     print(name.title()) 
+提取字典favorite_languages中的所有键，并依次将它们存储到变量 name中。输出列出了每个被调查者的名字
+或者：for name in favorite_languages:
+按顺序遍历字典中的键：for name in sorted(favorite_languages.keys()): 
+方法values()遍历字典中的值 如for language in favorite_languages.values(): 
+for language in set(favorite_languages.values()): 通过对包含重复元素的列表调用set()，可让Python找出列表中独一无二的元素
+嵌套：alien_0 = {'color': 'green', 'points': 5} alien_1 = {'color': 'yellow', 'points': 10}
+    alien_2 = {'color': 'red', 'points': 15} 
+ aliens = [alien_0, alien_1, alien_2] 
+input函数进行输入输出 message = input("Tell me something, and I will repeat it back to you: ")  print(message) 
+使用int()来获取数值输入 int(age) 
+while循环  while current_number <= 5: 
+函数def  如 def greet_user(): 
+传递副本function_name ( list_name [:])，导致原件不受影响
+传递任意数量的实参：def make_pizza(*toppings): 
+导入模块 import
+导入函数  from pizza import make_pizza 导入make_pizza的函数
+as 指定别名    from module_name import function_name as fn
+模块取别名 import module_name as mn
+* 导入模块中的所有函数   from module_name import *
+supper（）关联父类     super().__init__(make, model, year) 
+文件读取with open('pi_digits.txt') as file_object:     contents = file_object.read()     print(contents）
+ 写：with open(filename, 'w') as file_object:      file_object.write("I love programming.") 
+不覆盖原来的内容：with open(filename, 'a') as file_object: 
+count_words()：计算单词数
+json.dump（）和josn.load（）
+import json 
+numbers = [2, 3, 5, 7, 11, 13] 
+filename = 'numbers.json' 
+ with open(filename, 'w') as f_obj:    
+  json.dump(numbers, f_obj) 
+josn.load（）
+import json 
+filename = 'numbers.json' 
+with open(filename) as f_obj:  
+numbers = json.load(f_obj)    
+print(numbers) 
+ Python turtle学习笔记_Python_MessiNine的博客-CSDN博客
+https://blog.csdn.net/MessiNine/article/details/80314783
+
+Python学习网站
+https://www.cnblogs.com/guohongwei/p/10840963.html
+Python学习常用的好网站 - Jane-ape - 博客园
+https://www.cnblogs.com/jane-ape/p/Jane.html
+
+Python绘图Turtle库详解 - chen~先生 - 博客园
+https://www.cnblogs.com/chen0307/articles/9645138.html
